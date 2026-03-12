@@ -51,14 +51,6 @@ Backend application built with **Node.js and Express**, following **MVC architec
 
 ---
 
-## 📊 GitHub Stats
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoZ4&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoZ4&layout=compact&theme=dark)
-
----
-
 ## 📫 Contact
 
 LinkedIn  
